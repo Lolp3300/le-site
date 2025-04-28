@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "nhentai-js": "^4.0.0"
-  }
+  },
+  "scripts": {
+    "start": "Node ."
+  },
+  "name": "serveur",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
